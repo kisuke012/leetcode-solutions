@@ -17,3 +17,23 @@ Stay consistent: a little practice every day
 🟠 LeetCode: https://leetcode.com/u/itsjustme--/
 
 ⭐ If this repo helps you, consider giving it a star!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Kaiser1210supreme/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Kaiser1210supreme/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Kaiser1210supreme/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Kaiser1210supreme/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+<!---LeetCode Topics End-->
