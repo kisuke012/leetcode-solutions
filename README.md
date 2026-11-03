@@ -26,6 +26,7 @@ Stay consistent: a little practice every day
 | [0070-climbing-stairs](https://github.com/Kaiser1210supreme/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kaiser1210supreme/Leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kaiser1210supreme/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kaiser1210supreme/Leetcode-solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Stay consistent: a little practice every day
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kaiser1210supreme/Leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kaiser1210supreme/Leetcode-solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
